@@ -1,5 +1,5 @@
 # gofragmentsSiteGenerator
-the Go program that generates the static part of gofragments.net site.
+the Go program that generates the static part of "http://gofragments.net" site.
 
 1- written in Go,  
 2- simple structure, straightforward and fast (generation in less than 1 sec for many posts),  
