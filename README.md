@@ -19,7 +19,7 @@ The generation of the site is in fact organized in 3 steps:
 
 1- pre-processing of the source code: main objective is to normalize the comments. Use of regexp and go/ast, go/parser, go/token, go/format, go/printer.  
 2- generation of the markdown documents, with tags and properties, that will become the blog pages.   
-3- generation of the site: which process the markdown documents and set up the static page, within the Appengine structure.  
+3- generation of the site: which process the markdown documents and set up the static pages, within the Appengine structure.  
 
 
 Todos:  
